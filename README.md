@@ -32,7 +32,7 @@ La base de données `gazetteer.sqlite` doit être copiée dans le dossier de tra
 ### Exécution
 
 ```
-cat input.csv | npm run generate-stats > output.csv
+cat input.csv | npm run generate-stats > stats
 ```
 
 ## Licence
