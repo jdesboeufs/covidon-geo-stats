@@ -7,7 +7,7 @@
     "csv-parser": "^2.3.2",
     "dotenv": "^8.2.0",
     "get-stream": "^5.1.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "license": "MIT"
 }
